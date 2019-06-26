@@ -1,0 +1,1 @@
+{"uuid":"45f2989b-7be1-44e0-812b-0ef4475673e7","name":"rozetca.tests.SingUpTest.after","description":"","start":1561562685861,"stop":1561562686722,"children":["d35b86ba-2d82-405a-afb8-02bc1c173799"],"afters":[{"name":"after","status":"passed","stage":"finished","description":"","start":1561562685861,"stop":1561562686722}]}

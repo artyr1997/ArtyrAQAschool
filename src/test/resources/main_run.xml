@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Main Run" thread-count="2" parallel="classes">
+    <test name="Test" >
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="rozetca.tests.MainPageTest" />
+            <class name="rozetca.tests.LogInTest"/>
+            <class name="rozetca.tests.SingUpTest"/>
+            <class name="rozetca.tests.SearchTest"/>
+        </classes>
+    </test>
+</suite>

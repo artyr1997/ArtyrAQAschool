@@ -1,0 +1,1 @@
+{"uuid":"c25e6bab-0532-48ee-bcc4-99ac193734fa","name":"rozetca.tests.MainPageTest.after","description":"","start":1561562647601,"stop":1561562649275,"children":["fe9ed99b-1929-4db7-a2dd-63ea6f779836"],"afters":[{"name":"after","status":"passed","stage":"finished","description":"","start":1561562647602,"stop":1561562649275}]}
